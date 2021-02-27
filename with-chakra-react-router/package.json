@@ -1,0 +1,30 @@
+{
+  "name": "@koenbrouwer/cra-template-crr",
+  "version": "1.0.0-beta.1",
+  "keywords": [
+    "koenbrouwer",
+    "react",
+    "react-router",
+    "create-react-app",
+    "chakra-ui",
+    "template",
+    "typescript"
+  ],
+  "description": "My custom template for Create React App with Chakra UI and React Router.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoenBrouwer/cra-templates.git",
+    "directory": "with-chakra-react-router"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/koenbrouwer/cra-templates/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
